@@ -28,12 +28,18 @@ replay_pid*
 .nix/
 *.nix
 
+# Maven output directory
+target/
+
 # Output directories (compiled code)
 bin/
 out/
 challenges/
 
 # IDE-specific files
+.settings/
+.classpath
+.project
 .idea/
 *.iml
 .vscode/
