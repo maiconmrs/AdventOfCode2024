@@ -34,7 +34,6 @@ target/
 # Output directories (compiled code)
 bin/
 out/
-challenges/
 
 # IDE-specific files
 .settings/
