@@ -10,6 +10,7 @@ public class Main {
         {
             put(1, challenges.Day1HistorianHysteria.class);
             put(2, challenges.Day2RedNosedReports.class);
+            put(3, challenges.Day3MullItOver.class);
             
             // Add more entries as needed
         }
