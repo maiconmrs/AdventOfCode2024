@@ -12,6 +12,7 @@ public class Main {
             put(2, challenges.Day2RedNosedReports.class);
             put(3, challenges.Day3MullItOver.class);
             put(4, challenges.Day4CeresSearch.class);
+            put(5, challenges.Day5PrintQueue.class);
             
             // Add more entries as needed
         }
