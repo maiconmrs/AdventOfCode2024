@@ -3,11 +3,14 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class Main {
     // Map of solved days to descriptive class names
     private static final Map<Integer, Class<?>> challengeClassMap = new HashMap<Integer, Class<?>>() {
         {
             put(1, challenges.Day1HistorianHysteria.class);
+            put(2, challenges.Day2RedNosedReports.class);
+            
             // Add more entries as needed
         }
     };
