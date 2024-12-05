@@ -12,12 +12,12 @@
 #### Here’s where I’m tracking my progress through the Advent calendar. Will I make it to the 25th? Stay tuned!
 
 | Day | Puzzle Name              | Part 1 | Part 2 | Resolution Date |
-|-----|--------------------------|--------|--------|-----------------|
+|:-----:|--------------------------|:-------:|:-------:|:-----------------:|
 | 1   | Historian Hysteria       | ✅     | ✅     | 2024-12-04      |
-| 2   | TBD                      | 🔲     | 🔲     |                 |
-| 3   | TBD                      | 🔲     | 🔲     |                 |
-| 4   | TBD                      | 🔲     | 🔲     |                 |
-| 5   | TBD                      | 🔲     | 🔲     |                 |
+| 2   | Red-Nosed Reports        | ✅     | ✅     | 2024-12-04      |
+| 3   | Mull It Over             | ✅     | ✅     | 2024-12-05      |
+| 4   | Ceres Search             | ✅     | ✅     | 2024-12-05      |
+| 5   | Print Queue              | ✅     | ✅     | 2024-12-05      |
 | 6   | TBD                      | 🔲     | 🔲     |                 |
 | 7   | TBD                      | 🔲     | 🔲     |                 |
 | 8   | TBD                      | 🔲     | 🔲     |                 |
